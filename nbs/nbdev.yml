@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello"
+  site-url: "https://klausreus.github.io/nbdev_hello"
+  description: "Test nbdev repo"
+  repo-branch: main
+  repo-url: "https://github.com/klausreus/nbdev_hello"
